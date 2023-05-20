@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "944693566306",
+    "project_id": "sod-user-b3bea",
+    "storage_bucket": "sod-user-b3bea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944693566306:android:49263b615c60387e546a3b",
+        "android_client_info": {
+          "package_name": "com.sod.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944693566306-46mqlidp4e456bo1jmhdghdr699im13m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwS0kfZqf_Ms2i5mwc6ZfnRUzRUe1UPtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944693566306-46mqlidp4e456bo1jmhdghdr699im13m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
